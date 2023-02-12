@@ -1,0 +1,7 @@
+Interesting parcels:
+152-111-04 1304 LEAFWOOD DR Novato (triangle cut off, see -01 and 02 as well)
+
+prop_id:152-340-31
+usecd:14
+usedescription:Single Family Attached
+situsformatted:6 SCOTTSDALE WAY
