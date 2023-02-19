@@ -5,3 +5,12 @@ prop_id:152-340-31
 usecd:14
 usedescription:Single Family Attached
 situsformatted:6 SCOTTSDALE WAY
+
+
+Wierd hexagon carved out
+155-011-30 155-011-29
+
+
+Areas are from the Parcel data which is in NAD83 ref format from
+https://gisopendata.marincounty.org/search?tags=parcels%20addresses
+
